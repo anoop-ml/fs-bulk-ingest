@@ -4,7 +4,7 @@
 
 ## Intro
 
-The sample shows how to generate and ingest a csv file containing 10 millions rows, chunked into 10 files, each containing 1 million rows into [SageMaker Feature Store](https://aws.amazon.com/sagemaker/feature-store/) using [SageMaker Processing Jobs](https://docs.aws.amazon.com/sagemaker/latest/dg/use-scikit-learn-processing-container.html). A [SageMaker Notebook instance](https://docs.aws.amazon.com/sagemaker/latest/dg/nbi.html) of type ml.c5.4xlarge was used to load/run the notebooks in this repo
+The sample shows how to generate and ingest a csv file containing 10 millions rows, chunked into 10 files, each containing 1 million rows into a Online Feature Group in  [SageMaker Feature Store](https://aws.amazon.com/sagemaker/feature-store/) using [SageMaker Processing Jobs](https://docs.aws.amazon.com/sagemaker/latest/dg/use-scikit-learn-processing-container.html). A [SageMaker Notebook instance](https://docs.aws.amazon.com/sagemaker/latest/dg/nbi.html) of type ml.c5.4xlarge was used to load/run the notebooks in this repo
 
 
 
