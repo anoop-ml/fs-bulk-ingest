@@ -1,5 +1,5 @@
 # List of available images - https://github.com/aws/sagemaker-spark-container/blob/master/available_images.md
-
+# Below is needed when the actual image is released
 SM_PYSPARK_ECR_ID=173754725891
 region=us-east-1
 image=sagemaker-spark-processing
