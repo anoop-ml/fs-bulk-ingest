@@ -2,7 +2,7 @@
 # Below is needed when the actual image is released
 SM_PYSPARK_ECR_ID=173754725891
 region=us-east-1
-image=sagemaker-spark-processing
+image=sagemaker-spark-featurestore
 tag=3.0-cpu
 
 # Get the account number associated with the current IAM credentials
